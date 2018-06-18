@@ -1,26 +1,33 @@
 <template>
-  <div>
-    <nav class="navbar">
-      <div class="navbar-brand">
-        <nuxt-link to="/" class="navbar-item">개사랑</nuxt-link>
-            <figure class="image is-128x128">
-            <img src="~static/dogfoot.jpg" alt="">
-          </figure>
-      </div>
-      <div class="navbar-menu is-active">
-        <div class="navbar-end">
-          <nuxt-link to="/stat" class="navbar-item">통계</nuxt-link>
-          <nuxt-link to="/about" class="navbar-item">소개</nuxt-link>
-        </div>
-      </div>
-    </nav>
+  <div style="text-align: center">
+    <div class="container">
+      <nuxt-link to="/">
+         
+      </nuxt-link>
+    </div>
+
+
+    <div class="container">
+      
+     
+      
+  
+      
+    </div>
     <nuxt/>
 
-    <footer class="footer has-text-centered">
-      <div>
-      <figure class="image is-32x32">
-        <img src="~static/dogfoot.jpg" alt="">
-      </figure>2018년 목원대학교 개사랑. 모든 저작권은 개사랑에 있습니다.</div>
-    </footer>
+    <p>MOKWON UNIVERSITY - YUNYEOHWAN - cwss1503@naver.com - 010.4757.1783<br>- 윤 여 환 -</p>
+    <br>
+  
   </div>
+
 </template>
+
+<style>
+  .right {
+
+    float: right;
+
+  }
+
+</style>

@@ -7,7 +7,7 @@
         </article>
         <article class="message">
             <div class="message-header">
-                애견 산업 전망
+                애견 
             </div>
             <div class="message-body">
                 <div id="chartArea"></div>
