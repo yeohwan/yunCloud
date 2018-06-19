@@ -10,7 +10,7 @@
           <br>
            <nuxt-link to="/about"><a class="button is-primary is-inverted is-outlined">자기소개</a></nuxt-link>
           <nuxt-link to="/work"> <a class="button is-primary is-inverted is-outlined">좋아하는 것</a></nuxt-link>
-          <nuxt-link to="/stat"><a class="button is-link is-inverted is-outlined">경력</a></nuxt-link>
+          <nuxt-link to="/stat"><a class="button is-link is-inverted is-outlined">학점</a></nuxt-link>
     </div>
     <br>
   
