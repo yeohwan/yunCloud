@@ -8,9 +8,9 @@
       <div class="navbar-menu is-active">
         <div class="navbar-end" style="margin-right : 30px;">
           
-           <nuxt-link to="/"><a class="button is-dark" style="margin : 10px; width : 150px; height : 50px;">자기소개</a></nuxt-link>
-          <nuxt-link to="/work"> <a class="button is-dark" style="margin : 10px; width : 150px; height : 50px;">좋아하는 것</a></nuxt-link>
-          <nuxt-link to="/stat"><a class="button is-dark" style="margin : 10px; width : 150px; height : 50px;">학점</a></nuxt-link>
+           <nuxt-link to="/"><button class="button is-dark" style="margin : 10px; width : 150px; height : 50px;">자기소개</button></nuxt-link>
+          <nuxt-link to="/work"> <button class="button is-dark" style="margin : 10px; width : 150px; height : 50px;">좋아하는 것</button></nuxt-link>
+          <nuxt-link to="/stat"><button class="button is-dark" style="margin : 10px; width : 150px; height : 50px;">학점</button></nuxt-link>
            
         </div>
       </div>
