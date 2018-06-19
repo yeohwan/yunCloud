@@ -8,7 +8,7 @@
           <h1 class="title is-1">YUN_Portfolio</h1>
           <h2 class="subtitle">윤여환의 포트폴리오입니다.</h2>
           <br>
-           <nuxt-link to="/about"><a class="button is-primary is-inverted is-outlined">자기소개</a></nuxt-link>
+           <nuxt-link to="/"><a class="button is-primary is-inverted is-outlined">자기소개</a></nuxt-link>
           <nuxt-link to="/work"> <a class="button is-primary is-inverted is-outlined">좋아하는 것</a></nuxt-link>
           <nuxt-link to="/stat"><a class="button is-link is-inverted is-outlined">학점</a></nuxt-link>
     </div>

@@ -3,11 +3,11 @@ module.exports = {
   ** Headers of the page
   */
   head: {
-    title: '개사랑_yb',
+    title: '윤여환의 웹사이트',
     meta: [
       { charset: 'utf-8' },
       { name: 'viewport', content: 'width=device-width, initial-scale=1' },
-      { hid: 'description', name: 'description', content: '대한민국 애견인 모임' }
+      { hid: 'description', name: 'description', content: '윤여환 포트폴리오' }
     ],
     link: [
       { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' },
